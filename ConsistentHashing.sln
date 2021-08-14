@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashing.Producer", "ConsistentHashing.Producer\ConsistentHashing.Producer.csproj", "{C3596DD1-87F3-422B-80F2-ED5116A49F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashing.Consumer", "ConsistentHashing.Consumer\ConsistentHashing.Consumer.csproj", "{7207FB7D-6DD3-49E2-B4B1-271C277FA0C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashing.Infrastructure", "ConsistentHashing.Infrastructure\ConsistentHashing.Infrastructure.csproj", "{E931E110-9179-4D28-80DD-74A123A02F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3596DD1-87F3-422B-80F2-ED5116A49F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3596DD1-87F3-422B-80F2-ED5116A49F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3596DD1-87F3-422B-80F2-ED5116A49F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3596DD1-87F3-422B-80F2-ED5116A49F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7207FB7D-6DD3-49E2-B4B1-271C277FA0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7207FB7D-6DD3-49E2-B4B1-271C277FA0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7207FB7D-6DD3-49E2-B4B1-271C277FA0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7207FB7D-6DD3-49E2-B4B1-271C277FA0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E931E110-9179-4D28-80DD-74A123A02F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E931E110-9179-4D28-80DD-74A123A02F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E931E110-9179-4D28-80DD-74A123A02F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E931E110-9179-4D28-80DD-74A123A02F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
