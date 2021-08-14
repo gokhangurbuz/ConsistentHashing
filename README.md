@@ -9,7 +9,7 @@ RabbitMq, ConsistentHashing
 
 ####    Run `dotnet build && dotnet run` //ConsistentHashing.Producer
 
-#### 4. So, you can track RabbitMq actions with below url.
+#### 4. So, you can track RabbitMQ actions with below url.
 
 ```bash
   "http://127.0.0.1:15672/#/queues"
